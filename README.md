@@ -2,11 +2,14 @@
 
 ## Problem Set 2
 
+### Team members
+
+Nicolas Reichardt, 245611
+
+
 ### Coding a two-player iterated Prisoner's Dilemma
 
-This repository XXXXXXXXX
-
-More information can be retrieved from the write-up, accessible here: YYYYYYYYY
+In this assignment, I chose to take the computational approach. In a first step, I coded my own simulation of the two-player iterated Prisoner's Dilemma. Then, I implemented the same tournament by using the Axelrod library. More details can be retrieved from the submitted PDF document.
 
 
 #### AI use statement:

@@ -82,5 +82,4 @@ class Random(Strategy):
     
     def make_move(self):
         return random.choice(['C', 'D'])
-    
 
