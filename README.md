@@ -1,11 +1,8 @@
 # GRAD-E1489: Algorithmic Game Theory and Governance
 # Instructor: Prof. Asya Magazinnik, PhD
 
-## Problem Set 2
+## Problem Set 2 - Nicolas Reichardt, 245611
 
-### Team members
-
-Nicolas Reichardt, 245611
 
 ### Coding a two-player iterated Prisoner's Dilemma
 
